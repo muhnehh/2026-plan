@@ -1,6 +1,5 @@
 # winter-2025
-### Final Project Title (already strong for arXiv)
-**"Unsupervised Discovery of Exoplanet Transit Candidates and Atmospheric Escape Signatures in TESS 2025 Light Curves Using Variational Autoencoders"**
+### **"Unsupervised Discovery of Exoplanet Transit Candidates and Atmospheric Escape Signatures in TESS 2025 Light Curves Using Variational Autoencoders"**
 
 This title is specific, timely (2025 data), method-focused (VAE), and discovery-oriented → perfect for astro-ph.IM and MNRAS.
 
